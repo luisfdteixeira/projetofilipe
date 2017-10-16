@@ -4,7 +4,7 @@
 
 Projeto criado para entrega do trabalho do Filipe Guelber (16-10-2017).
 
-Para elaboração desse trabalho foram usados 4 templates, sendo eles:
+Para elaboração desse trabalho foram usados 4 patterns, sendo eles:
 ```
 Factory
 ```
